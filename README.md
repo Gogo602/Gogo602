@@ -4,6 +4,6 @@
 </h6> 
 <h6>⚡ Fun fact: ... Focusing</h6>
 
-[My GitHub](https://github-readme-stats.vercel.app/api?username=Gogo602)
+
 
 
