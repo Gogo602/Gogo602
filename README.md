@@ -1,4 +1,5 @@
 <h1>Hi, I’m Gogo Benson</h1> 
+<h3>A FrontEnd Developer</h3>
 <h6> I’m interested in ... Project collaboration</h6>
 <h6>I’m currently learning ...Front-End Web Development
 </h6> 
