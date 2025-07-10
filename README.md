@@ -7,6 +7,7 @@
  
 #### - 🌱 I’m currently Learning NextJs.
 #### - ⚡ Building interactive & responsive Web application.
+#### - 🥅 Intern @InternPulse
 #### - 🥅 Open to Jobs/Intern.
 #### - ⚡ Fun fact: Focusing.
 <br />
