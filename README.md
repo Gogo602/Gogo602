@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer, Learner!!
 
  
-#### - 🌱 I’m currently Learning NextJs.
+#### - 🌱 I’m currently Learning Python.
 #### - ⚡ Building interactive & responsive Web application.
 #### - 🥅 Intern @InternPulse
 #### - 🥅 Open to Jobs/Intern.
