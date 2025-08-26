@@ -7,7 +7,7 @@
  
 #### - 🌱 I’m currently Learning Python.
 #### - ⚡ Building interactive & responsive Web application.
-#### - 🥅 Intern @InternPulse
+#### - 🥅 Former Intern @InternPulse
 #### - 🥅 Open to Jobs/Intern.
 #### - ⚡ Fun fact: Focusing.
 <br />
